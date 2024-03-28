@@ -1,6 +1,6 @@
 {
   "name": "guess_the_number-732161",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This is the number guessing game",
   "main": "index.js",
   "type": "module",
